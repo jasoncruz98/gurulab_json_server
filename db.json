@@ -1,0 +1,254 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "googleClassroomCourseId": "451502498752",
+      "courseName": "English Class",
+      "section": "Form 4",
+      "subject": "Vocabulary",
+      "startDate": "01/01/2022",
+      "endDate": "31/12/2022",
+      "rate": 70,
+      "recurringDayOfWeek": "Monday",
+      "recurringStartTime": "08:00",
+      "recurringEndTime": "10:00",
+      "googleClassroomCourseTemplateId": "GuruLab: Form 1 English (Advanced)",
+      "tutorName": "Rheena Lee",
+      "teacherZoomLink": "https://zoom.us/w/52112__teacher_Link_1",
+      "studentZoomLink": "https://zoom.us/w/52112__student_Link_3",
+      "esName": "Bella Wong",
+      "esStartDate": "Wednesday, December 29th 2021",
+      "esEndDate": "Thursday, December 9th 2021",
+      "unenrolledDate": "Friday, December 8th 2021",
+      "enrolments": [
+        {
+          "enrolmentId": 1,
+          "studentId": 1,
+          "enrolmentStartDate": "01/01/2022",
+          "enrolmentEndDate": "01/03/2022"
+        },
+        {
+          "enrolmentId": 2,
+          "studentId": 2,
+          "enrolmentStartDate": "01/01/2022",
+          "enrolmentEndDate": "01/03/2022"
+        }
+      ],
+      "coursework": [
+        {
+          "couseworkId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "googleClassroomCourseId": "451502498752",
+      "courseName": "English Advance Class",
+      "section": "Form 4",
+      "subject": "Vocabulary",
+      "startDate": "01/01/2022",
+      "endDate": "31/12/2022",
+      "rate": 88,
+      "recurringDayOfWeek": "Wednesday",
+      "recurringStartTime": "08:00",
+      "recurringEndTime": "10:00",
+      "googleClassroomCourseTemplateId": "GuruLab: Form 1 English (Advanced)",
+      "tutorName": "Rheena Lee",
+      "teacherZoomLink": "https://zoom.us/w/52112__teacher_Link_2",
+      "studentZoomLink": "https://zoom.us/w/52112__student_Link_3",
+      "esName": "Foam gleaner",
+      "esStartDate": "Wednesday, December 29th 2021",
+      "esEndDate": "Thursday, December 9th 2021",
+      "unenrolledDate": "Monday, January 28th 2021",
+      "enrolments": [
+        {
+          "enrolmentId": 1,
+          "studentId": 1,
+          "enrolmentStartDate": "01/01/2022",
+          "enrolmentEndDate": "01/03/2022"
+        },
+        {
+          "enrolmentId": 2,
+          "studentId": 2,
+          "enrolmentStartDate": "01/01/2022",
+          "enrolmentEndDate": "01/03/2022"
+        }
+      ],
+      "coursework": [
+        {
+          "couseworkId": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "googleClassroomCourseId": "451502498752",
+      "courseName": "English Class",
+      "section": "Form 4",
+      "subject": "Vocabulary",
+      "startDate": "01/01/2022",
+      "endDate": "31/12/2022",
+      "rate": 333,
+      "recurringDayOfWeek": "Sunday",
+      "recurringStartTime": "08:00",
+      "recurringEndTime": "10:00",
+      "googleClassroomCourseTemplateId": "GuruLab: Form 1 English (Advanced)",
+      "tutorName": "Rheena Lee",
+      "teacherZoomLink": "https://zoom.us/w/52112__teacher_Link_3",
+      "studentZoomLink": "https://zoom.us/w/52112__student_Link_3",
+      "esName": "Falala",
+      "esStartDate": "Wednesday, December 29th 2021",
+      "esEndDate": "Thursday, December 9th 2021",
+      "unenrolledDate": "Saturday, November 8th 2021",
+      "enrolments": [
+        {
+          "enrolmentId": 1,
+          "studentId": 1,
+          "enrolmentStartDate": "01/01/2022",
+          "enrolmentEndDate": "01/03/2022"
+        },
+        {
+          "enrolmentId": 2,
+          "studentId": 2,
+          "enrolmentStartDate": "01/01/2022",
+          "enrolmentEndDate": "01/03/2022"
+        }
+      ],
+      "coursework": [
+        {
+          "couseworkId": 1
+        }
+      ]
+    }
+  ],
+  "course-templates": [
+    {
+      "id": 1,
+      "name": "Form 1 English (Advanced) 1234",
+      "section": "Form 4",
+      "subject": "Vocabulary",
+      "googleClassroomCourseId": "451502498753",
+      "lastSyncedAt": "01/01/2022",
+      "lastSyncedStatus": "Success",
+      "courses": [
+        {
+          "courseId": "1",
+          "googleClassroomCourseId": "451502498752",
+          "recurringDayOfWeek": "Monday"
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "section": "2",
+      "subject": "3",
+      "googleClassroomCourseId": "4",
+      "id": 2
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Eugenia",
+      "email": "belle.kreiger@hotmail.com",
+      "gender": "female",
+      "phone_number": "+60123456789",
+      "status": "Active",
+      "lastName": "Swaniawski",
+      "birthday": "2021-10-10T00:51:06.303Z",
+      "avatar": [
+        {
+          "name": "Eugenia.jpg",
+          "percent": 100,
+          "size": 40088,
+          "status": "done",
+          "type": "image/jpeg",
+          "uid": "rc-upload-1644988527139",
+          "url": "https://cdn.fakercloud.com/avatars/missaaamy_128.jpg"
+        }
+      ],
+      "transferredFrom": "Enlish (Trial) - Sunday 5:00pm",
+      "transferredTo": "Enlish (Advanced) - Friday 8:00pm",
+      "transferredDateTime": "02/02/2022 - 4:56pm"
+    }
+  ],
+  "tutors": [
+    {
+      "id":1,
+      "name":"En Ai No",
+      "email": "enaino@gmail.com",
+      "contact": "0125454888",
+      "ucCourseName": "English (advanced)",
+      "ucSubject": "Grammar",
+      "ucTimeAndDate": "10:00 - 12:00 (01/01/2022 Saturday)",
+      "ucTutorZoomLink": "https://zoom.us/w/52112__teacher_Link_1",
+      "ucStudentZoomLink": "https://zoom.us/w/student_link_1"
+    },
+    {
+      "id":2,
+      "name":"Sarang Lipstick",
+      "email": "saralip@yaboo.com",
+      "contact": "0102222888",
+      "ucCourseName": "English (beginner)",
+      "ucSubject": "Vocab",
+      "ucTimeAndDate": "16:00 - 18:00 (12/05/2022 Wednesday)",
+      "ucTutorZoomLink": "https://zoom.us/w/52112__teacher_Link_2",
+      "ucStudentZoomLink": "https://zoom.us/w/student_link_2"
+    },
+    {
+      "id":3,
+      "name":"shooher",
+      "email": "shooher@hotmale.com",
+      "contact": "0189634274",
+      "ucCourseName": "English (Trial)",
+      "ucSubject": "Grammar",
+      "ucTimeAndDate": "18:30 - 19:00 (22/02/2022 Saturday)",
+      "ucTutorZoomLink": "https://zoom.us/w/52112__teacher_Link_3",
+      "ucStudentZoomLink": "https://zoom.us/w/student_link_3"
+    }
+  ],
+  "bills": [
+    {
+      "id":1,
+      "paymentStatus":"pending",
+      "totalAmount": "70",
+      "guardianEmail": "guardian1@gmail.com",
+      "externalReference": "",
+      "paymentUrl": "https://www.billplz-sandbox.com/bills/888",
+      "paidAtDate": "",
+      "paidAtTime": "",
+      "biId":"1",
+      "biStudentName": "Low bae",
+      "biCourseName": "English (advanced)",
+      "contact": "0102222888"
+    },
+    {
+      "id": 2,
+      "paymentStatus":"paid",
+      "totalAmount": "666",
+      "guardianEmail": "guardian2@gmail.com",
+      "externalReference": "pmsm00jx",
+      "paymentUrl": "https://www.billplz-sandbox.com/bills/777",
+      "paidAtDate": "01/01/2022",
+      "paidAtTime": "19:28",
+      "biId":"2",
+      "biStudentName": "Lary Lang",
+      "biCourseName": "English (advanced)",
+      "contact": "0116223333"
+    },
+    {
+      "id":3,
+      "paymentStatus":"overdue",
+      "totalAmount": "88",
+      "guardianEmail": "guardian3@gmail.com",
+      "externalReference": "",
+      "paymentUrl": "https://www.billplz-sandbox.com/bills/888",
+      "paidAtDate": "",
+      "paidAtTime": "",
+      "biId":"3",
+      "biStudentName": "Oscary",
+      "biCourseName": "English (beginner)",
+      "contact": "5325326678876"
+    }
+  ]
+}
